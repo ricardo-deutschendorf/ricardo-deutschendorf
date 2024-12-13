@@ -1,6 +1,9 @@
 ## 💜 Olá, meu nome é Ricardo Deutschendorf!
 
-Estou trabalhando recentemente no meu projeto do salão de beleza "Cia D' Beleza".
+Sou formado como técnico em Desenvolvimento Web pelo Ifsul, a escola federal do Rio Grande do Sul. Já concluí meu TCC, que está postado no perfil e atualmente estou focado no projeto da Cia D' Beleza, 
+um salão de beleza aonde será feito um sistema de agendamento online e falarei da especialidade de todas profissionais do local.
+
+Se você se interessa por meus trabalhos, fique à vontade para explorar meus projetos! 🚀
 
 ## Onde me encontrar
 [![Linkedin](https://img.shields.io/badge/-Ricardo%20Deutschendorf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-deutschendorf-0742642b1/)](https://www.linkedin.com/in/ricardo-deutschendorf-0742642b1/)
