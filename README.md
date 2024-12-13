@@ -2,7 +2,10 @@
 
 Estou trabalhando recentemente no meu projeto do salão de beleza "Cia D' Beleza".
 
-Caso você se interessou em meus trabalhos entre em contato no gmail "ricardoddorf@gmail.com"
+## Onde me encontrar
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
 
 ## 🚀 Minhas Skills
 
