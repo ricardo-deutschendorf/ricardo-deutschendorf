@@ -3,9 +3,9 @@
 Estou trabalhando recentemente no meu projeto do salão de beleza "Cia D' Beleza".
 
 ## Onde me encontrar
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin](https://img.shields.io/badge/-Ricardo%20Deutschendorf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardo-deutschendorf-0742642b1/)](https://www.linkedin.com/in/ricardo-deutschendorf-0742642b1/)
+[![Gmail Badge](https://img.shields.io/badge/-ricarddorf@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ricarddorf@gmail.com)](mailto:ricarddorf@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/ricardo-deutschendorf?label=follow&style=social)](https://github.com/ricardo-deutschendorf)
 
 ## 🚀 Minhas Skills
 
