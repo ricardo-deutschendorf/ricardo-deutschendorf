@@ -1,12 +1,8 @@
-## 💜 Olá, meu nome é {seu nome}!
+## 💜 Olá, meu nome é Ricardo Deutschendorf!
 
-Faça uma breve apresentação sobre você e a sua stack.
+Estou trabalhando recentemente no meu projeto do salão de beleza "Cia D' Beleza".
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
----
+Caso você se interessou em meus trabalhos entre em contato no gmail "ricardoddorf@gmail.com"
 
 ## 🚀 Minhas Skills
 
