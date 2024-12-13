@@ -1,5 +1,32 @@
 ## 💜 Olá, meu nome é Ricardo Deutschendorf!
 
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
 Sou formado como técnico em Desenvolvimento Web pelo Ifsul, a escola federal do Rio Grande do Sul. Já concluí meu TCC, que está postado no perfil e atualmente estou focado no projeto da Cia D' Beleza, 
 um salão de beleza aonde será feito um sistema de agendamento online e falarei da especialidade de todas profissionais do local.
 
