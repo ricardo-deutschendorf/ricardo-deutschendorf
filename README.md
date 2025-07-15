@@ -1,7 +1,6 @@
 ## 💜 Olá, meu nome é Ricardo Deutschendorf!
 
-Sou formado como técnico em Desenvolvimento Web pelo Ifsul, a escola federal do Rio Grande do Sul. Já concluí meu TCC, que está postado no perfil e atualmente estou focado no projeto da Cia D' Beleza, 
-um salão de beleza aonde será feito um sistema de agendamento online e falarei da especialidade de todas profissionais do local.
+Sou formado como técnico em Desenvolvimento Web pelo Ifsul, a escola federal do Rio Grande do Sul. Já concluí meu TCC, que está postado no perfil, Atualmente estou cursando Engenharia de software e desenvolvendo mais meus conhecimentos. 
 
 Se você se interessa por meus trabalhos, fique à vontade para explorar meus projetos! 🚀
 
